@@ -33,6 +33,15 @@ O ScanChef e um aplicativo mobile desenvolvido para otimizar a gestao de insumos
 ## Status do Projeto
 
 Em desenvolvimento ativo.
+### O que já está implementado:
+- [x] Protótipo de alta fidelidade e UI no Figma.
+- [x] Autenticação de usuários (Cadastro/Login) integrada ao Firebase Auth.
+- [x] Estrutura de banco de dados no Cloud Firestore.
+- [x] Telas principais e fluxo de navegação no FlutterFlow.
+
+### Próximos Passos (Roadmap):
+- [ ] Refinamento da integração com a API de IA para leitura e extração dos ingredientes.
+- [ ] Testes de usabilidade e publicação da versão Beta.
 
 ### Concluido
 - Definicao de fluxos de telas e prototipo no Figma.
